@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTextSharpExtensions", "iTextSharpExtensions\iTextSharpExtensions.csproj", "{4638FCEB-5729-4FFB-9326-596FE995CAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTextSharpExtensions.Console", "iTextSharpExtensions.Console\iTextSharpExtensions.Console.csproj", "{3D7CB02B-1833-477D-B252-3EF45281BE58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4638FCEB-5729-4FFB-9326-596FE995CAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4638FCEB-5729-4FFB-9326-596FE995CAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4638FCEB-5729-4FFB-9326-596FE995CAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4638FCEB-5729-4FFB-9326-596FE995CAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7CB02B-1833-477D-B252-3EF45281BE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7CB02B-1833-477D-B252-3EF45281BE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7CB02B-1833-477D-B252-3EF45281BE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7CB02B-1833-477D-B252-3EF45281BE58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
